@@ -1,0 +1,33 @@
+_repo: The-Cosmic-Computer_20727
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 20727-h/images/cover.gif
+creator:
+  author:
+    agent_name: Piper, H. Beam
+    alias: Piper, Henry Beam
+    birthdate: 1904
+    deathdate: 1964
+    gutenberg_agent_id: '8301'
+    url: http://www.gutenberg.org/2009/agents/8301
+    wikipedia: http://en.wikipedia.org/wiki/H._Beam_Piper
+description: Conn Maxwell returns from Terra to his home world of Poictesme, dubbed
+  "The Junkyard Planet" because of all the military equipment left behind after the
+  last war.  Conn claims he has found the location of Merlin, a military super-computer
+  rumored to have been left behind.  But is Merlin real, or just a myth?  And will
+  Conn's knowledge of the computer save Poictesme -- or tear his world apart?
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20727'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: The Cosmic Computer
+url: http://www.gutenberg.org/ebooks/20727
